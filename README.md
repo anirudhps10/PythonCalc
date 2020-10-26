@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 # PythonCalc
 
 ## Python Program to Make a Simple Calculator
@@ -14,5 +16,8 @@ In this program, we ask the user to choose an operation. Options 1, 2, 3, and 4 
 
 Two numbers are taken and an if...elif...else branching is used to execute a particular section. User-defined functions add(), subtract(), multiply() and divide() evaluate respective operations and display the output.
 
+## Divisibulty of a number
+The program is used to check whether the numbe rin the list is divisible by 14 or not 
 
 Created for: Karan Singh
+COntributed by:
