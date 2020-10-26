@@ -1,5 +1,6 @@
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-
+[![Generic badge](https://img.shields.io/badge/Status-Just_Started-<COLOR>.svg)](https://shields.io/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-3fe0d0.svg)](https://www.python.org/)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-89cff0.svg)](https://code.visualstudio.com/)
 # PythonCalc
 
 ## Python Program to Make a Simple Calculator
